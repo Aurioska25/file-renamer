@@ -8,9 +8,9 @@ This script renames files in a specified directory with an ordered sequence.
 
 Install the necessary npm modules by running the following command in your terminal:
 
-
+```javascript
 npm install path fs
-
+```
 
 ## Usage
 
