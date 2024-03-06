@@ -3,8 +3,14 @@
 This script renames files in a specified directory with an ordered sequence.
 
 ## Prerequisites
-
 - [Node.js](https://nodejs.org) installed on your system.
+## Installation
+
+Install the necessary npm modules by running the following command in your terminal:
+
+
+npm install path fs
+
 
 ## Usage
 
@@ -31,7 +37,6 @@ Example: cd path/to/directory
 
 Run the script using Node.js. Enter the following command: node file_name.js
 
-
 ### 6. Check the Renamed Files
 
 After running the script, you should see the output messages indicating that the files have been renamed. Verify the changes by checking the specified directory where the files were located.
@@ -43,6 +48,3 @@ After running the script, you should see the output messages indicating that the
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-
-
